@@ -10,7 +10,7 @@ public class TesteController {
 
 	@GetMapping
 	public String index() {
-		return "teste-ci";
+		return "teste-ci 2";
 	}
 	
 }
